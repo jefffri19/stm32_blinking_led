@@ -99,7 +99,7 @@ MX_GPIO_Init(void) { GPIO_InitTypeDef GPIO_InitStruct = {0};
 }
     
 ## Output
-<img width="446" height="374" alt="image" src="https://github.com/user-attachments/assets/9603fa06-b2dc-42e4-97e3-e3a27b74a719" />
+<img width="310" height="310" alt="image" src="https://github.com/user-attachments/assets/1a1da605-c836-4fe0-897b-360a4798c835" />
 
 
 ## Result
